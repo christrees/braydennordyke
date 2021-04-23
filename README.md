@@ -1,4 +1,4 @@
-# braydennordyke
+# Brayden Nordyke
 
 ![BraydenNordyke-SugarGreed](./docs/images/BraydenNordyke-SugarGreed.jpeg)
 
